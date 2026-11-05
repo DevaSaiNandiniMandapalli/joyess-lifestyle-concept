@@ -3,6 +3,8 @@
 An independent, premium website **concept** for Joyess Lifestyle, Banjara Hills, Hyderabad.
 It is **not the official website** and makes no claim of affiliation with the business.
 
+**Live demo:** <https://joyess-lifestyle-concept.vercel.app>
+
 ## Run it
 
 Open `index.html` directly in a browser, or serve the folder:
